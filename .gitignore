@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+summer.csv
+winter.csv
+dictionary.csv
+olympic-games.zip
